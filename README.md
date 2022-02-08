@@ -10,3 +10,5 @@ Make sure to read Watchla's FAQs before doing the above: https://watchla.app/faq
 Watchla is a watch app for Tesla that allows you to fully control your Tesla from your Apple watch.
 
 See more about the app, here: https://watchla.app
+
+Follow Watchla on Twitter for updates! https://twitter.com/WatchlaApp
